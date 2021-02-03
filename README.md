@@ -13,7 +13,7 @@ Rather, with this model's approximately 85% accuracy, we can use it to quickly e
 Ultimately, the model does not give us much insight into commonplace, non-game-related language that sets these communities apart.  It still has value in analyzing big text data, but for the marketing purposes I set out to find, we may need to look elsewhere for ways to improve our sales.  
 
 ## Notebook
-https://git.generalassemb.ly/sehyeager/project_3/blob/master/Samuel_Yeager_code.ipynb
+https://github.com/sehyeager/DSIR_Project_3/blob/master/Samuel_Yeager_code.ipynb
 
 ## Sources
 https://www.reddit.com/r/ffxiv
